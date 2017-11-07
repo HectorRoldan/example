@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">examplePS</string>
+    <string name="title">Hola Mundo</string>
 </resources>
